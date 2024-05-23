@@ -1,1 +1,1 @@
-# personalwebsite
+This is a personal website I created for a Web Development class. This was my first dive into using simple HTML and CSS. The design is not anything special, but I was pleased with being able to navigate the pages. The website lives within the file. Download the file and clicking on one of the html files will bring you to the page in the browser. The index.html file is the homepage 
